@@ -1,4 +1,3 @@
-# ai-customer-support-classifier
 # AI Customer Support Classifier
 
 An NLP-based customer support ticket classification system developed using Python. The project automatically categorizes customer support requests into five predefined categories: Refund Request, Technical Issue, Cancellation Request, Product Inquiry, and Billing Inquiry.
